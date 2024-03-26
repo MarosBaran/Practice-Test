@@ -1,5 +1,3 @@
-// OrdersTab.js
-
 import { useContext } from "react";
 import { OrdersContext } from "../store/orders-context";
 import classes from "./OrdersTab.module.css";
